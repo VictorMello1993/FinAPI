@@ -2,7 +2,7 @@
 Primeiro projeto a ser desenvolvido durante o módulo 1 da trilha Node.js do Ignite
 
 ### Requisitos
-- [ ] Deve ser possível criar umma conta
+- [ ] Deve ser possível criar uma conta
 - [ ] Deve ser possível buscar o extrato bancário do cliente
 - [ ] Deve ser possível realizar um depósito
 - [ ] Deve ser possível realizar um saque
