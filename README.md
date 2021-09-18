@@ -2,6 +2,7 @@
 Primeiro projeto a ser desenvolvido durante o módulo 1 da trilha Node.js do Ignite
 
 ### Requisitos
+
 - [x] Deve ser possível criar umma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
 - [] Deve ser possível realizar um depósito
@@ -14,6 +15,7 @@ Primeiro projeto a ser desenvolvido durante o módulo 1 da trilha Node.js do Ign
 ---
 
 ## Regras de negócio
+
 - [x] Não deve ser possível cadastrar uma conta com CPF já existente
 - [x] Não deve ser possível fazer depósito em uma conta não existente
 - [] Não deve ser possível buscar extrato em uma conta não existente
@@ -23,3 +25,10 @@ Primeiro projeto a ser desenvolvido durante o módulo 1 da trilha Node.js do Ign
 
 ## Atributos
 Ao criar uma conta, o cliente irá receber o nome, CPF e o extrato conténdo os lançamentos de crédito e débito
+
+- [ ] Não deve ser possível cadastrar uma conta com CPF já existente
+- [ ] Não deve ser possível fazer depósito em uma conta não existente
+- [ ] Não deve ser possível buscar extrato em uma conta não existente
+- [ ] Não deve ser possível fazer saque em uma conta não existente
+- [ ] Não deve ser possível excluir uma conta não existente
+- [ ] Não deve ser possível fazer saque quando o saldo for insuficiente
